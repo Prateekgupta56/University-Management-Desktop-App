@@ -1,9 +1,9 @@
-# University-Management-Desktop-App
+# University-Management-Desktop-App 🎓
 1. Learning Objectives:
 
-Create a Java based GUI application.
+To create a Java based GUI application.
 
-Understand the concept of JFrame, Action listeners and many more. Implement Graphics, and OOPs concepts.
+To understand the concept of JFrame, Action listeners and many more. Implement Graphics, and OOPs concepts.
 
 2. Understanding the University Management Application:
 
